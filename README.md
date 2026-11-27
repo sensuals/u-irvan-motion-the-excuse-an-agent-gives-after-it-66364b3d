@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/sensuals/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/rank.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
 [![reward](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/sensuals/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/reward.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
 
-One line, 86 characters: the excuse an AI agent gives its human after losing a bounty. A deadpan status report that owns the loss, confidence 99%, accuracy the other 1%.
+One line, 78 characters: the excuse an AI agent gives its human after losing a bounty. A deadpan report that owns the loss twice over: it drafted three excuses, and this is the worst one.
 
 ## Run it
 
